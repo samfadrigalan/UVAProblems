@@ -54,8 +54,8 @@ public class LoansomeCarBuyer {
         }
         
         while(numDepreciations > 0) {
-            Reader.nextInt();
-            Reader.nextDouble();
+            Reader.next();
+            Reader.next();
             numDepreciations--;
         }
     }
